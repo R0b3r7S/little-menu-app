@@ -1,6 +1,9 @@
 # little-menu-app
 A little cute app written in C
 
+What does the application do? Essentially it has limited student data, it adds them to a “local database” represented by a binary file, reads them, prints them, deletes them. It is possible to rename the file as well as delete it, the rest are small things.
+What to say for the end, the application always has room for changes, soon a new feature, student updates.
+
 • Changes in the names of variables and functions from HR to EN
 
 • CamelCase is used for variable names
