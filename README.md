@@ -1,5 +1,6 @@
 # little-menu-app
-a little cute app written in C
+A little cute app written in C
+
 • Changes in the names of variables and functions from HR to EN.
 • CamelCase is used for variable names.
 • PascalCase is used for function names.
