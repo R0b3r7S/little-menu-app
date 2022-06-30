@@ -1,12 +1,12 @@
 # little-menu-app
-A little cute app written in C
+A little cute app written in C.
 
-What does the application do? Essentially it has limited student data, it adds them to a “local database” represented by a binary file, reads them, prints them, deletes them. It is possible to rename the file as well as delete it, the rest are small things.
-What to say for the end, the application always has room for changes, soon a new feature, student updates.
+What does the application do? Essentially it has limited student data, it adds them to a “local database” represented by a binary file, reads them, prints them, deletes them. It is possible to rename the binary file as well as delete it, the rest are small things.
+What to say for the end, the application always has room for changes. 
 
 • Changes in the names of variables and functions from HR to EN
 
-• CamelCase is used for variable names
+• camelCase is used for variable names
 
 • PascalCase is used for function names
 
@@ -15,3 +15,5 @@ What to say for the end, the application always has room for changes, soon a new
 • Organized source code into multiple files
 
 • If an action is selected that involves a previously performed action, and the previous action was not performed, the program will not crash, but will give the user feedback
+
+-> Soon a new feature, student updates in binary file.
